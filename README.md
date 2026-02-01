@@ -1,4 +1,4 @@
-# Microgrid Telemetry Dashboard
+# Microgrid Telemetry Dashboard 
 
 **End-to-end monitoring pipeline** connecting C microgrid simulator to live Chart.js dashboard. Features 100ms voltage charts, fault injection, real-time status, and event logging—bridging embedded simulation to cloud-native visualization.
 
